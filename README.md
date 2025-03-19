@@ -1,4 +1,4 @@
-# Full Stack: React and Spring Boot
+# Library Management System
 
 [<img src="images/react-spring-boot-grabber-thumbnail.png" alt="Full Stack: React and Spring Boot"  width="400" />](bit.ly/3EcIvFP)
 
